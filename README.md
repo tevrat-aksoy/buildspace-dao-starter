@@ -7,5 +7,9 @@ To get started with this course, clone this repo and follow these commands:
 2. Run `npm start` to start the project
 3. Start coding!
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+
+
+
+
+![las](https://user-images.githubusercontent.com/48439083/146989895-5a734040-53df-4a88-8850-8946403d8620.jpg)
+
